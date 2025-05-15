@@ -2,6 +2,6 @@
 
 Requires Processing
 
-Place in foloder called titled 'Project'
+Place in folder called  'Project'
 
 Click on pde file and run
